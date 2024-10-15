@@ -33,6 +33,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D_BAD", "D_BAD\D_BAD.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D_GOOD", "D_GOOD\D_GOOD.csproj", "{94A27BFD-F9F4-4CFE-A007-E19F0E59F581}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{C7318470-AFAE-42D0-911D-93C3EED4C815}"
+	ProjectSection(SolutionItems) = preProject
+		plaintext.txt = plaintext.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
