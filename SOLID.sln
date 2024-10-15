@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_BAD", "L_BAD\L_BAD.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_GOOD", "L_GOOD\L_GOOD.csproj", "{8C59A91E-008E-4BC3-B7BC-B92EFDCF755A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 I", "4 I", "{F10AF5E7-2658-47E8-BEEC-C023D21F7698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
